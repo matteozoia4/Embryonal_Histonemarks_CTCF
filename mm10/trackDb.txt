@@ -1001,7 +1001,7 @@ longLabel Lung_CTCF_E14.5_ChIP-seq_ENCODE4_IDRthresholdedPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 255,204,51      
+color 51,153,255      
 
 track Lung_CTCF_ChIP-seq_P0_IDRthresholdedPeaks  
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cf39c3fced24797d/display?to_ext=bigbed
@@ -1011,7 +1011,7 @@ longLabel Lung_CTCF_P0_ChIP-seq_ENCODE4_IDRthresholdedPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 255,204,51 
+color 51,153,255 
 
 track Heart_CTCF_ChIP-seq_P0_IDRthresholdedPeaks  
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213545adeb834c77ad6a/display?to_ext=bigbed
@@ -1021,7 +1021,7 @@ longLabel Heart_CTCF_P0_ChIP-seq_ENCODE4_IDRthresholdedPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 255,204,51 
+color 51,153,255 
 
 
 
