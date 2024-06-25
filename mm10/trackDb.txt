@@ -11,7 +11,7 @@ longLabel Heart_H3K27ac_E10.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245       
+color 255,204,51       
 
 track Heart_H3K27ac_ChIP-seq_E11.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a32ec06a02d89293/display?to_ext=bigbed
@@ -21,7 +21,7 @@ longLabel Heart_H3K27ac_E11.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Heart_H3K27ac_ChIP-seq_E12.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d948ddf347ce0646/display?to_ext=bigbed
@@ -31,7 +31,7 @@ longLabel Heart_H3K27ac_E12.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Heart_H3K27ac_ChIP-seq_E13.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213591be211cec000a86/display?to_ext=bigbed
@@ -41,7 +41,7 @@ longLabel Heart_H3K27ac_E13.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Heart_H3K27ac_ChIP-seq_E14.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a7877e8f6f2902f5/display?to_ext=bigbed
@@ -51,7 +51,7 @@ longLabel Heart_H3K27ac_E14.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Heart_H3K27ac_ChIP-seq_E15.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f1940310f82a3ca7/display?to_ext=bigbed
@@ -61,7 +61,7 @@ longLabel Heart_H3K27ac_E15.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Heart_H3K27ac_ChIP-seq_E16.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ba4ed86d99a39a23/display?to_ext=bigbed
@@ -71,7 +71,7 @@ longLabel Heart_H3K27ac_E16.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 
 
@@ -316,7 +316,7 @@ longLabel Limb_H3K27ac_E10.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245       
+color 255,204,51       
 
 track Limb_H3K27ac_ChIP-seq_E11.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352317ac80d43a9e68/display?to_ext=bigbed
@@ -326,7 +326,7 @@ longLabel Limb_H3K27ac_E11.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Limb_H3K27ac_ChIP-seq_E12.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359634f9d21a09fba8/display?to_ext=bigbed
@@ -336,7 +336,7 @@ longLabel Limb_H3K27ac_E12.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Limb_H3K27ac_ChIP-seq_E13.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b6bc266fe80a6b63/display?to_ext=bigbed
@@ -346,7 +346,7 @@ longLabel Limb_H3K27ac_E13.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Limb_H3K27ac_ChIP-seq_E14.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135422cfc730f470543/display?to_ext=bigbed
@@ -356,7 +356,7 @@ longLabel Limb_H3K27ac_E14.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Limb_H3K27ac_ChIP-seq_E15.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ac222cd743bd75bd/display?to_ext=bigbed
@@ -366,7 +366,7 @@ longLabel Limb_H3K27ac_E15.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
  
 
 
@@ -587,7 +587,7 @@ longLabel Lung_H3K27ac_E14.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Lung_H3K27ac_ChIP-seq_E15.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c2f0a9393238195a/display?to_ext=bigbed
@@ -597,7 +597,7 @@ longLabel Lung_H3K27ac_E15.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Lung_H3K27ac_ChIP-seq_E16.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213566ec68802f2efd3c/display?to_ext=bigbed
@@ -607,7 +607,7 @@ longLabel Lung_H3K27ac_E16.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 
 
@@ -735,7 +735,7 @@ longLabel Craniofacial_prominence_H3K27ac_E10.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245       
+color 255,204,51       
 
 track Craniofacial_prominence_H3K27ac_ChIP-seq_E11.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135817d08c54724f073/display?to_ext=bigbed
@@ -745,7 +745,7 @@ longLabel Craniofacial_prominence_H3K27ac_E11.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Craniofacial_prominence_H3K27ac_ChIP-seq_E12.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135413f71cb6d4fcf3f/display?to_ext=bigbed
@@ -755,7 +755,7 @@ longLabel Craniofacial_prominence_H3K27ac_E12.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Craniofacial_prominence_H3K27ac_ChIP-seq_E13.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e58e924b62e778ce/display?to_ext=bigbed
@@ -765,7 +765,7 @@ longLabel Craniofacial_prominence_H3K27ac_E13.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Craniofacial_prominence_H3K27ac_ChIP-seq_E14.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e1987d1555ed69bb/display?to_ext=bigbed
@@ -775,7 +775,7 @@ longLabel Craniofacial_prominence_H3K27ac_E14.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245  
+color 255,204,51  
 
 track Craniofacial_prominence_H3K27ac_ChIP-seq_E15.5_PseudobulkPeaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cea2ab69bee603d9/display?to_ext=bigbed
@@ -785,7 +785,7 @@ longLabel Craniofacial_prominence_H3K27ac_E15.5_ChIP-seq_ENCODE4_PseudobulkPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245
+color 255,204,51
 
 
 
@@ -1001,7 +1001,7 @@ longLabel Lung_CTCF_E14.5_ChIP-seq_ENCODE4_IDRthresholdedPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245      
+color 255,204,51      
 
 track Lung_CTCF_ChIP-seq_P0_IDRthresholdedPeaks  
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cf39c3fced24797d/display?to_ext=bigbed
@@ -1011,7 +1011,7 @@ longLabel Lung_CTCF_P0_ChIP-seq_ENCODE4_IDRthresholdedPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245 
+color 255,204,51 
 
 track Heart_CTCF_ChIP-seq_P0_IDRthresholdedPeaks  
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213545adeb834c77ad6a/display?to_ext=bigbed
@@ -1021,7 +1021,7 @@ longLabel Heart_CTCF_P0_ChIP-seq_ENCODE4_IDRthresholdedPeaks
 type bigBed 3 +
 configurable on
 visibility dense
-color 66,135,245 
+color 255,204,51 
 
 
 
