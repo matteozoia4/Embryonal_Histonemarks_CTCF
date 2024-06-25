@@ -319,7 +319,7 @@ visibility dense
 color 100,80,20       
 
 track Limb_H3K27ac_ChIP-seq_E11.5_PseudobulkPeaks
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c58d0a5a4289643f/display?to_ext=bigbed
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352317ac80d43a9e68/display?to_ext=bigbed
 itemRgb on
 shortLabel Limb_H3K27ac_E11.5
 longLabel Limb_H3K27ac_E11.5_ChIP-seq_ENCODE4_PseudobulkPeaks       
