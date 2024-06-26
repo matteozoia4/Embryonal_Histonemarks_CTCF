@@ -1,5 +1,5 @@
-hub Mouse Embryonal Histonemarks ChIP-seq
-shortLabel mm10 Embryonal Histonemarks ChIP-seq
+hub Mouse Embryonal Histonemarks ChIP-seq PEAKS
+shortLabel mm10 Embryonal Histonemarks ChIP-seq PEAKS
 longLabel Embryonal Histonemarks for Heart, Limb, lung, CraniofacialProminence and CTCF TFs binding sites
 genomesFile genomes.txt 
 email matteo.zoia@unibe.ch
